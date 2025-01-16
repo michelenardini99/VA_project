@@ -1,0 +1,36 @@
+Addestramento con le sole feature della faccia...
+--- Risultati per Faccia (svm) ---
+Accuratezza media: 0.76
+Deviazione standard delle accuratezze: 0.03
+Addestramento con le sole feature della faccia...
+--- Risultati per Faccia (adaboost) ---
+Accuratezza media: 0.74
+Deviazione standard delle accuratezze: 0.04
+Addestramento con le sole feature degli occhi...
+--- Risultati per Occhi (svm) ---
+Accuratezza media: 0.81
+Deviazione standard delle accuratezze: 0.02
+Addestramento con le sole feature degli occhi...
+--- Risultati per Occhi (adaboost) ---
+Accuratezza media: 0.79
+Deviazione standard delle accuratezze: 0.02
+Addestramento con le sole feature della bocca...
+--- Risultati per Bocca (svm) ---
+Accuratezza media: 0.68
+Deviazione standard delle accuratezze: 0.03
+Addestramento con le sole feature della bocca...
+--- Risultati per Bocca (adaboost) ---
+Accuratezza media: 0.65
+Deviazione standard delle accuratezze: 0.03
+Addestramento con le feature della bocca e occhi...
+--- Risultati per Bocca e Occhi (svm) ---
+Accuratezza media: 0.99
+Deviazione standard delle accuratezze: 0.01
+Addestramento con le sole feature della bocca e occhi...
+--- Risultati per Bocca e Occhi (adaboost) ---
+Accuratezza media: 0.99
+Deviazione standard delle accuratezze: 0.01
+Addestramento con le feature del viso, bocca e occhi...
+--- Risultati per Viso, Bocca e Occhi (svm) ---
+Accuratezza media: 1.00
+Deviazione standard delle accuratezze: 0.00
